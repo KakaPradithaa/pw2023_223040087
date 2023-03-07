@@ -25,7 +25,7 @@
 </head>
 <body>
     <table class="table" cellpadding="10" cellspacing="0">
-        <?php for($i = 1; $i <= 5; $i++): ?>
+        <?php for($i = 1; $i <= 5; $i ++): ?>
             <tr>
                 <?php for($j = 1; $j <= 5; $j++): ?>
                     <?php if(($i + $j) % 2 == 0): ?>
