@@ -2,23 +2,16 @@
 body{
     background-color: rgb(206, 208, 228);
     font-family: font-family: 'Poppins', sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     color: #202020;
 }
-.form-control{
-    width: 350px;
-}
+
 .navbar{
     background-color: #0d6efd;
-    position: fix;
     font-size: 20px;
 }
-.card:hover{
-    border: 2px solid #2d2d2d;
-    transform: scale(1.1);
-    transition: all .2s ;
-}
-.card>img{
-    width: 200x;
-    height: 150px;
+
+a{
+    text-decoration: none;
+    color: #0d6efd;
 }

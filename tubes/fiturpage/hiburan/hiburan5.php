@@ -1,0 +1,122 @@
+<!doctype html>
+    <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Bandung Juara</title>
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+            <link rel="stylesheet" href="../../css/stylepage.css" />
+        </head>
+    <body>
+
+<!--Navbar-->    
+        <nav class="navbar">
+            <div class="container">
+                <a class="navbar-brand" href="#">
+                    <img src="../../image/logo.png" alt="Logo" width="50" height="50" class="d-inline-block alig">
+                    Bandung <strong>Juara</strong>
+                </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="../../index.php">Beranda</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../fiturpage.php">Fitur</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../tentang.php">Tentang</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../siaranpers/siaran.php">Siaran pers</a>
+                </li>
+                </ul>
+            </div>
+            </div>
+        </nav>
+<!--Navbar-->    
+
+<!--Breadcrumb-->
+    <div class="container">
+        <nav aria-label="breadcrumb" style="background-color: #fff;" class="mt-3">
+            <ol class="breadcrumb p-3">
+                <li class="breadcrumb-item"><a href="../../index.php" class="text-decoration-none">Beranda</a></li>
+                <li class="breadcrumb-item"><a href="../../fiturpage.php" class="text-decoration-none">Fitur</a></li>
+                <li class="breadcrumb-item"><a href="../fitur3.php" class="text-decoration-none">Hiburan</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Dago Dream Park</li>
+            </ol>
+        </nav>
+    </div>
+<!--Breadcrumb-->
+
+<!--Singleitem-->
+    <div class="container">
+        <div class="row row-pemkot">
+            <div class="col-lg-5">
+                <figure class="figure">
+                    <img src="5.jpg" class="figure-img img-fluid" style="border-radius: 5px;" width="450px">
+            </div>
+            <div class="col-lg-7">
+                <h4 style="color:  #0d6efd;">Dago Dream Park</h4>
+                <div class="garis-item">
+                </div>
+            <div>
+                    <span class="figure-caption d-flex justify-content-evenly fw-bold">
+                        Dago Dreampark merupakan sebuah tempat wisata alam yang terletak di JL.Dago Giri KM 2.2 Mekarwangi Lembang. Meskipun alamat kami termasuk Lembang tetapi kami lebih dekat dari Dago Kota Bandung. Kurang lebih sekitar 2KM dari arah terminal Dago Bandung lurus ke arah JL. Jajaway belok kiri dan Ke Jl. Dago Giri. Dago Dreampark mempunyai lebih dari 30 wahana yang siap menemani liburan anda bersama keluarga atau rekan anda. Untuk kategori wahana kami ada Wahana Adventure, Wahana Anak, Wahana Selfie, Wahana Family Dan juga kami mempunyai Restorant serta tenant - tenant makanan. Untuk pembelian tiket masuk dan wahana kami sudah tersedia di offline atau di online, Jadi anda tidak perlu khawatir mencari informasi tentang Dago Dreampark.
+                        <br><br>
+                        Indonesia terkenal sebagai negeri zamrud khatulistiwa, karena tepat berada di garis Khatulistiwa, maka menciptakan keindahan alam yang luar biasa. Keberagaman budayanya merupakan cermin warisan keindahan dan kekayaan alam nusantara yang agraris. Dengan keindahan alam serta keberagaman budaya Nusantara, Indonesia telah menjadi magnet kuat yang menarik minat Wisatawan Domestik maupun Mancanegara untuk datang berkunjung ke sebuah obyek wisata. Seperti pada dasarnya, jika suatu tempat memiliki daya tarik dan keunikan, maka akan menjadi magnet kuat untuk dunia pariwisata. Adapun sektor pariwisata ini mampu mempercepat pertumbuhan ekonomi dan penyediaan lapangan kerja, peningkatan penghasilan serta menstimulasi sektor-sektor produktif lainnya. Maka untuk hal tersebut diperlukan keterpaduan rangkaian berbagai sumber daya pariwisata yang berkaitan erat secara langsung maupun tidak langsung untuk lebih menggeliatkan sector pariwisata di Indonesia, terutama pariwisata yang berdasarkan pada bentukan lingkungan alami (Natural attraction) dan magnet tradisi (Cultural attraction) yang memiliki aksesibilitas rendah.
+                        <br><br>
+                        Seiring dengan perkembangan waktu, berawal dari Rumah Sosis di Jalan Setiabudi No.294 pada Bulan Agustus 2007, Dago Dreampark mempunyai sejarah yang cukup panjang dan berpengalaman dalam mengelola tempat wisata. Dengan berkembangnya waktu dan untuk memenuhi permintaan pasar pariwisata di Kota Bandung, maka pada Bulan Juli 2016 dibuka Dago Dreampark didaerah lembang, yang merupakan wisata alam pegunungan dengan nuansa pohon pinus yang indah, asri dan sejuk. Dago Dreampark dengan luas lahan ± 14 Hektar merupakan tempat wisata alam yang menghadirkan suasana alam pegunungan dengan berbagai wahana-wahana spot foto yang Instagramable antara lain, Karpet Alladin, Sky Tree, Sky Bike, Up House, Love Seat, Flying Louge, ada juga wahana lain seperti Flying Fox, Kora-Kora, ATV, Monster Trail dll. Sejak dibuka pada tahun 2016, Dago Dreampark terus mengalami perkembangan pesat dan terus menyerap pasar pariwisata di Kota Bandung, dan menjadi salah satu destinasi wisata favorit bagi wisatawan Nasional dan Mancanegara.
+                        <br><br>
+                    </span>
+            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!--Singleitem-->
+<!--Footer-->  
+    <footer class="bg-primary p-5 mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <a href=""class="text-decoration-none text-dark fw-bold">
+                        <img src="../../asfoot/1.png"style="width: 100px;">
+                    </a>
+                    <span>
+                        <a href="https://www.google.com/maps/place/Jl.+Wastukencana+No.2,+Babakan+Ciamis,+Kec.+Sumur+Bandung,+Kota+Bandung,+Jawa+Barat+40117" 
+                        class="text-decoration-none text-dark fw-bold">
+                            Jl. Wastukencana No.2Bandung, Jawa Barat 40117
+                        </a>
+                    </span>
+                </div>
+
+                <div class="col-md-6 text-end mt-2">
+                    <a href="https://twitter.com/humasbandung_"class="text-decoration-none">
+                        <img src="../../asfoot/twitter.png"class="ms-2" style="width: 50px;">
+                    </a>
+                    <a href="https://www.instagram.com/humas_bandung/"class="text-decoration-none">
+                        <img src="../../asfoot/instagram.png"class="ms-3" style="width: 50px;">
+                    </a>
+                </div>
+            <div class="container mt-2">
+                <div class="row">
+                    <div class="col-md-6">
+                        <a href=""class="text-decoration-none text-dark"></a>
+                        <span>
+                            <a href="https://www.instagram.com/kaka.prdtha/" 
+                            class="text-decoration-none text-dark">
+                                Copyright@2023|Created and Development by Kaka Praditha Putra
+                            </a>
+                        </span>
+                    </div>
+                </div>
+            </footer>    
+<!--Footer-->
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+    </body>
+    </html>

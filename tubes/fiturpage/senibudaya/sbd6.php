@@ -1,0 +1,134 @@
+<!doctype html>
+    <html lang="en">
+        <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Bandung Juara</title>
+            <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+            <link rel="stylesheet" href="../../css/stylepage.css" />
+        </head>
+    <body>
+
+    <!--Navbar-->    
+        <nav class="navbar">
+            <div class="container">
+                <a class="navbar-brand" href="#">
+                    <img src="../../image/logo.png" alt="Logo" width="50" height="50" class="d-inline-block alig">
+                    Bandung <strong>Juara</strong>
+                </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="../../index.php">Beranda</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../fiturpage.php">Fitur</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../tentang.php">Tentang</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../siaranpers/siaran.php">Siaran pers</a>
+                </li>
+                </ul>
+            </div>
+            </div>
+        </nav>
+    <!--Navbar-->    
+
+    <!--Breadcrumb-->
+    <div class="container">
+        <nav aria-label="breadcrumb" style="background-color: #fff;" class="mt-3">
+            <ol class="breadcrumb p-3">
+                <li class="breadcrumb-item"><a href="../../index.php" class="text-decoration-none">Beranda</a></li>
+                <li class="breadcrumb-item"><a href="../../fiturpage.php" class="text-decoration-none">Fitur</a></li>
+                <li class="breadcrumb-item"><a href="../fitur2.php" class="text-decoration-none">Seni dan Budaya</a></li>
+                <li class="breadcrumb-item active" aria-current="page">Bajidoran</li>
+            </ol>
+        </nav>
+    </div>
+    <!--Breadcrumb-->
+
+    <!--Singleitem-->
+    <div class="container">
+        <div class="row row-pemkot">
+            <div class="col-lg-5">
+                <figure class="figure">
+                    <img src="6.jpeg" class="figure-img img-fluid" style="border-radius: 5px;" width="450px">
+            </div>
+            <div class="col-lg-7">
+                <h4 style="color:  #0d6efd;">Bajidoran</h4>
+                <div class="garis-item">
+                </div>
+            <div>
+                    <span class="figure-caption d-flex justify-content-evenly fw-bold">
+                        Bajidor merupakan sebutan untuk penonton yang ikut menari dalam pertunjukan Kliningan Bajidoran. Awal mula kemunculan istilah ini tidak dapat dipastikan, sebelumnya penonton aktif yang menari di arena Tayub atau Ketuk Tilu disebut pamogoran. Menurut Deseng (Buky, 2008) bajidor adalah kependekan dari Banjet, tanji, dan bodor (lawakan). Banjet dan tanji adalah kesenian rakyat yang berkembang di kawasan pantai utara Jawa Barat.
+                        <br><br>
+                        Dalam disertasi Buky Wibawa Karya Guna dijelaskan bahwa asal usul kesenian bajidoran khususnya di Subang, berawal dari kesenian kliningan. Kliningan atau kiliningan adalah nama sebuah instrumen dalam karawitan Sunda, bentuknya seperti saron panjang yang dimainkan dengan dua tangan dan biasanya dipadu dengan instrumen lainnya, seperti kacapi indung, dan kacapi panerus, kendang, rebab, dan goong, mengiringi lagu dengan suasana yang tenang dan lembut. Instrumen yang semula disebut kliningan itu sendiri kini digantikan dengan gambang.
+                        <br><br>
+                        Pada perkembangannya, instrumen kliningan menghilang dan berubah menjadi genre musik gamelan dengan tetap menggunakan nama kliningan yang mengiringi sinden. Di Subang, khususnya daerah Pagaden, kliningan mengalami pembauran dengan kesenian rakyat yang telah ada sebelumnya, seperti Dombret, Banjet, Ketuk Tilu, Tayub, Doger, dan Gembyung.  Hasilnya, kliningan yang biasanya menyajikan lagu-lagu yang berkesan tenang dan lembut memiliki tampilan baru dengan lagu-lagu berirama cepat dan cenderung memenuhi permintaan lagu dari penonton, bahkan akhirnya para penonton yang mengendalikan pertunjukan, termasuk meminta mengiringi mereka untuk menari dan memberi uang saweran.
+                        <br><br>
+                        Asal kata Bajidor, berasal dari para penonton atau penggemar setia kliningan di daerah Subang, Mereka menjadi penonton setia kesenian bajidoran kemanapun dipentaskan dan acapkali memberi saweran kepada para penari, sinden dan pemain musiknya (nayaga).
+                        <br><br>
+                        Kekhasan kesenian ini dibandingkan dengan kesenian yang telah ada sebelumnya adalah pada posisi pelaku seni, pola tarian, dan musik. Posisi sinden atau ronggeng (penari) di atas panggung dan tidak berbaur dengan penonton; terdapat pola tarian terstuktur dan terdapat pula gerakan tarian bebas para penari dan bajidor yang dipengaruhi dari tarian yang telah ada sebelumnya. Lagu yang dibawakan diantaranya Kidung (Kembang Gadung), lagu-lagu tradisi kliningan (lagu ageung, lagu alit), lagu-lagu kreasi baru, dan termasuk pula lagu pop dan dangdut. Instrumen yang digunakan pada Bajidoran terdiri atas kendang ageung (kendang indung), kulanter (terdiri atas keplak dan tung), saron 1, saron2, demung (panerus), bonang, rincik, gambang, rebab, goong, dan kecrek. Bahkan, dalam beberapa pertunjukan, mengingat energi yang dikeluarkan pemain kendang dalam kesenian bajidoran ini sangat besar, sehingga terdapat dua set kendang, fungsinya mereka dapat bermain secara bergantian.
+                        <br><br>            
+                        Kesenian Bajidoran ini dilaksanakan siang ataupun malam tergantung permintaan penyelenggara (pemangku hajat). Pada umumnya masyarakat mengundang grup Bajidoran dalam rangka pesta pernikahan dan khitanan. Adapun alur pertunjukan Bajidoran adalah tidak baku namun biasanya dibagi dalam beberapa babak sebagai berikut: tatalu, ijabkabul, sambutan-sambutan, lagu bubuka, tari bubuka, pakaulan, lelang lagu, pesen lagu, nunjuk bajidor, dan penutup.
+                        <br><br>
+                        Dalam masyarakat, kesenian Bajidoran secara selain berfungsi sebagai sarana hiburan juga memiliki fungsi dalam aspek ekonomi masyarakat. Pengelolaan organisasi grup Bajidoran terpusat pada pimpinan yang merupakan pemilik dan biasanya dari kalangan sinden, juru kendang, atau juru rebab. Pemimpin memiliki otoritas mutlak dalam hal menentukan penerimaan acara, penentuan harga, penentuan upah pemain, dan bagian uang saweran yang terkumpul dari para bajidor.
+                        <br><br>
+                        Peristiwa ekonomi dalam setiap pertunjukan Bajidoran diperlihatkan dengan ramainya para pedagang kegiatan yang datang dari berbagai penjuru daerah sekitarnya.
+                        <br><br>
+                        Istilah Bajidoran berasal dari kata Bajidor yang artinya salah satu waditr semacam kendang ukuran besar. Memang dalam penyajian bajidoran ini peranan kendang sangat dominan untuk mengisi gerak-gerik tari. Istilah Bajidoran ada pula yang mengartikan untuk menamakan orang yang meminta lagu dan sekaligus orang tersebut sebagai penari.
+                        <br><br>
+                    </span>
+            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--Singleitem-->
+    <!--Footer-->  
+    <footer class="bg-primary p-5 mt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <a href=""class="text-decoration-none text-dark fw-bold">
+                        <img src="../../asfoot/1.png"style="width: 100px;">
+                    </a>
+                    <span>
+                        <a href="https://www.google.com/maps/place/Jl.+Wastukencana+No.2,+Babakan+Ciamis,+Kec.+Sumur+Bandung,+Kota+Bandung,+Jawa+Barat+40117" 
+                        class="text-decoration-none text-dark fw-bold">
+                            Jl. Wastukencana No.2Bandung, Jawa Barat 40117
+                        </a>
+                    </span>
+                </div>
+
+                <div class="col-md-6 text-end mt-2">
+                    <a href="https://twitter.com/humasbandung_"class="text-decoration-none">
+                        <img src="../../asfoot/twitter.png"class="ms-2" style="width: 50px;">
+                    </a>
+                    <a href="https://www.instagram.com/humas_bandung/"class="text-decoration-none">
+                        <img src="../../asfoot/instagram.png"class="ms-3" style="width: 50px;">
+                    </a>
+                </div>
+            <div class="container mt-2">
+                <div class="row">
+                    <div class="col-md-6">
+                        <a href=""class="text-decoration-none text-dark"></a>
+                        <span>
+                            <a href="https://www.instagram.com/kaka.prdtha/" 
+                            class="text-decoration-none text-dark">
+                                Copyright@2023|Created and Development by Kaka Praditha Putra
+                            </a>
+                        </span>
+                    </div>
+                </div>
+            </footer>    
+<!--Footer-->
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous"></script>
+    </body>
+    </html>

@@ -1,35 +1,120 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
-body{
-    background-color: #F6F7F8;
-    font-size: 14px;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    color: #202020;
 }
 
-.form-container{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    padding: 30px 100px;
-    box-shadow: 3px 3px 10px 0px #000;
-    border-radius: 10px;
-    width: 70vw;
-    height: 550px;
-    background-color: #FFFFFF;
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color:  #0d6efd;
 }
-.text-judul{
+
+.container{
+    width: 100%;
+    display: flex;
+    max-width: 850px;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
+}
+
+.login{
+    width: 400px;
+}
+
+form{
+    width: 250px;
+    margin: 60px auto;
+}
+
+h1{
+    margin: 20px;
+    text-align: center;
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+hr{
+    border-top: 2px solid #0d6efd;
+}
+
+p{
+    text-align: center;
+    margin: 10px;
+}
+
+.right img{
+    width: 450px;
+    height: 100%;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+form label{
+    display: block;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 5px;
+}
+
+input{
+    width: 100%;
+    margin: 2px;
+    border: none;
+    outline: none;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+button{
+    border: none;
+    outline: none;
+    padding: 8px;
+    width: 252px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 5px;
+    background: #2d2222;
+}
+
+button:hover{
+    background: rgb(35, 32, 236);
+}
+
+p a{
+    text-decoration: none; 
+}
+
+p a:hover{
     font-weight: bold;
-    font-size: 30px;
+    color: black;
 }
-.form-control{
-    font-size: 12px;
-}
-.text-login{
-    text-decoration: none;
-}
-.text-merah{
-    color: red;
-    font-weight: bold;
-}
+
+/* CSS untuk tampilan pada perangkat mobile */
+@media (max-width: 767px) {
+        .container {
+        fex-direction: column;
+        }
+        
+        .right {
+        margin-top: 20px;
+        }
+    
+        .login {
+        width: 100%;
+        }
+    
+        .right img {
+        width: 100%;
+        }
+    }
+
