@@ -62,9 +62,6 @@ if (isset($_POST['submit'])){
         <li class="nav-item">
             <a class="nav-link" href="index.php">Home</a>
         </li>
-        <li class="nav-item">
-            <a class="nav-link" href="admin.php">Artikel</a>
-        </li>
         </ul>
     </div>
 </div>
@@ -89,9 +86,9 @@ if (isset($_POST['submit'])){
                     </div>
                     <div class="mb-3">
                         <label for="editor" class="form-label">Masukan isi berita</label>
-                            <input class="form-control" name="isi" id="editor" required 
-                            value="<?= $art["isi"]; ?>">
+                        <textarea class="form-control row-3" name="isi" id="editor" required><?= $art["isi"]; ?></textarea>
                     </div>
+
                     <div class="button mb-3">
 				        <button type="submit" name="submit" class="btn btn-primary row-3">Ubah</button>
 			        </div>

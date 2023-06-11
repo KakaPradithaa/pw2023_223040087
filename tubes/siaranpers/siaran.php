@@ -56,42 +56,42 @@
             <div class="row text-center row-container mt-2">
                 <div class="col-lg-2 col-md-3 col-sm-4 col-6">
                     <div class="menu-kategori">
-                        <a href="page1.html"><img src="../aset/s1.jpeg" alt="" class="image-categori mt-3"></a>
+                        <a href="page1.php"><img src="../aset/s1.jpeg" alt="" class="image-categori mt-3"></a>
                         <p class="mt-3">Daftar Pemilih Sementara Kota Bandung Alami Peningkatan</p>
                     </div>
                 </div>
 
                 <div class="col-lg-2 col-md-3 col-sm-4 col-6">
                     <div class="menu-kategori">
-                        <a href="page2.html"><img src="../aset/s2.jpeg" alt="" class="image-categori mt-3"></a>
+                        <a href="page2.php"><img src="../aset/s2.jpeg" alt="" class="image-categori mt-3"></a>
                         <p class="mt-3">Kota Bandung Siap Sambut PPDB 2023/24</p>
                     </div>
                 </div>           
 
                 <div class="col-lg-2 col-md-3 col-sm-4 col-6">
                     <div class="menu-kategori">
-                        <a href="page3.html"><img src="../aset/s3.jpeg" alt="" class="image-categori mt-3"></a>
+                        <a href="page3.php"><img src="../aset/s3.jpeg" alt="" class="image-categori mt-3"></a>
                         <p class="mt-3">Pemkot Bandung Gandeng PT Mayora Tata PKL Kawasan Tegalega</p>
                     </div>
                 </div>
 
                 <div class="col-lg-2 col-md-3 col-sm-4 col-6">
                     <div class="menu-kategori">
-                        <a href="page4.html"><img src="../aset/s4.jpeg" alt="" class="image-categori mt-3"></a>
+                        <a href="page4.php"><img src="../aset/s4.jpeg" alt="" class="image-categori mt-3"></a>
                         <p class="mt-3">Sabet Juara Umum, Pemkot Bandung Beri Kadeudeuh untuk Para Kafilah STQH ke-18</p>
                     </div>
                 </div>
 
                 <div class="col-lg-2 col-md-3 col-sm-4 col-6">
                     <div class="menu-kategori">
-                        <a href="page5.html"><img src="../aset/s5.jpeg" alt="" class="image-categori mt-3"></a>
+                        <a href="page5.php"><img src="../aset/s5.jpeg" alt="" class="image-categori mt-3"></a>
                         <p class="mt-3">DPR Puji Kesiapan Kota Bandung Hadapi Pemilu 2024</p>
                     </div>
                 </div>
 
                 <div class="col-lg-2 col-md-3 col-sm-4 col-6">
                     <div class="menu-kategori">
-                        <a href="page6.html"><img src="../aset/s6.jpg" alt="" class="image-categori mt-3"></a>
+                        <a href="page6.php"><img src="../aset/s6.jpg" alt="" class="image-categori mt-3"></a>
                         <p class="mt-3">Seluruh RS di Kota Bandung Buka Layanan Vaksin Polio</p>
                     </div>
                 </div>

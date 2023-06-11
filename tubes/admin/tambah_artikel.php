@@ -56,9 +56,6 @@ if (isset($_POST['submit'])){
         <li class="nav-item">
             <a class="nav-link" href="admin.php">Artikel</a>
         </li>
-        <li class="nav-item">
-            <a class="nav-link" href="#">Fitur</a>
-        </li>
         </ul>
     </div>
 </div>

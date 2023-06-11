@@ -1,5 +1,6 @@
 <?php 
 session_start();
+require_once "auth.php"; 
 if(!isset($_SESSION['login'])){
     header("location: ../loginpage.php");
     exit();

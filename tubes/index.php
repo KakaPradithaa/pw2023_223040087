@@ -34,7 +34,7 @@
             <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="fiturpage.php">Fitur</a></li>
                 <li><a class="dropdown-item" href="siaranpers/siaran.php">Siaran Pers</a></li>
-                <li><a class="dropdown-item" href="Tentang.php">Tentang</a></li>
+                <li><a class="dropdown-item" href="tentang.php">Tentang</a></li>
             </ul>
             </li>
             <?php                
